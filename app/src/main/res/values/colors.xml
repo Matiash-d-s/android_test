@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +12,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="_bg__detailed_game_color">#050B18</color>
+    <color name="dota_2_is_a_multiplayer_online_battle_arena__moba__game_which_has_two_teams_of_five_players_compete_to_collectively_destroy_a_large_structure_defended_by_the_opposing_team_known_as_the__ancient___whilst_defending_their_own__color">#EEF2FB</color>
+    <color name="rectangle_25_color">#000000</color>
+    <color name="rectangle_27_color">#1F2430</color>
+    <color name="dota_2_color">#FFFFFF</color>
+    <color name="_70m_color">#45454D</color>
+    <color name="rectangle_31_color">#ffffff</color>
+    <color name="_70m_reviews_color">#A8ADB7</color>
+    <color name="rectangle_32_color">#F4D144</color>
+    <color name="rectangle_28_color">#44A9F4</color>
+    <color name="multiplayer_color">#41A0E7</color>
 </resources>
